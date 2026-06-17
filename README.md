@@ -19,3 +19,8 @@ Projeto de site fictício de hotel desenvolvido com HTML, CSS, JavaScript e Boot
 ## Acesso
 
 O site pode ser acessado via GitHub Pages após publicação.
+
+## ⚖️ Licença e Direitos Autorais
+
+Este projeto está sob a licença de **Todos os Direitos Reservados**. 
+Consulte o arquivo [LICENSE](LICENSE) para obter mais informações sobre as restrições de uso.
